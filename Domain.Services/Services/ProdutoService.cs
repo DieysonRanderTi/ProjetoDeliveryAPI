@@ -1,4 +1,4 @@
-﻿using Domain.Core.Interfaces.Repositorys;
+﻿using Domain.Core.Interfaces.Repositories;
 using Domain.Core.Interfaces.Services;
 using Domain.Models;
 
