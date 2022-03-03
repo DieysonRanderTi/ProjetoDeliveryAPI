@@ -1,8 +1,8 @@
 ﻿using Domain.Core.Interfaces.Repositories;
 using Domain.Core.Interfaces.Services;
-using Domain.Models;
+using Domain.Entities;
 
-namespace Domain.Services.Services
+namespace Services.Services
 {
     public class FormaPagamentoService : BaseService<FormaPagamento>, IFormaPagamentoService
     {

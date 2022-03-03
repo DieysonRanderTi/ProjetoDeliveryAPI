@@ -2,7 +2,7 @@
 using Domain.Core.Interfaces.Services;
 using System.Collections.Generic;
 
-namespace Domain.Services.Services
+namespace Services.Services
 {
     public class BaseService<TEntity> : IBaseService<TEntity> where TEntity : class
     {

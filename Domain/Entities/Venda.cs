@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
-namespace Domain.Models
+namespace Domain.Entities
 {
     public class Venda : Base
     {
